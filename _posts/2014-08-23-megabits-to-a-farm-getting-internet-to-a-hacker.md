@@ -7,7 +7,7 @@ tags:
 - noc internet network
 tumblr_url: http://blog.emfcamp.org/post/95545988673/megabits-to-a-farm-getting-internet-to-a-hacker
 ---
-In [our last post](http://blog.emfcamp.org/post/95086800438/how-to-network-a-field-internet-to-the-tent-at-emf), we discussed how the network is distributed both wirelessly and wired around the site. Here we’ll look at the other side of the equation: how the network is brought to the field in the first place.
+In [our last post](https://blog.emfcamp.org/2014/08/18/how-to-network-a-field-internet-to-the-tent-at/), we discussed how the network is distributed both wirelessly and wired around the site. Here we’ll look at the other side of the equation: how the network is brought to the field in the first place.
 
 ## It’s a tall order
 In an ideal world, these events would take place in fields next to large data centres. But as parking lots aren’t usually great for camping, there’s always the challenge of getting Internet access to the site in the first place.
