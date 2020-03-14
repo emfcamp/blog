@@ -11,11 +11,11 @@ We’ve been very lucky to have [Pulsant](http://www.pulsant.com) sponsor us. Th
 
 Due to the 2.8km distance between the Pulsant data centre and Pineham Park, we’ll be erecting temporary 30 metre tall masts and creating a point-to-point microwave link to connect the camp. As you can see the masts are pretty impressive!
 
-[There was an image here, but it was sadly lost to the mists of time]
+![A 30-metre tall mast](/images/2012_network_mast.jpg)
 
 Here is a brief overview of what our core network will look like:
 
-[There was an image here, but it was sadly lost to the mists of time]
+![Network Map](/images/2012_network_map.jpg)
 
 Like all large hacking events in Europe (HAR2009/CCC) we’ll be using portaloos, or [datenklos](https://de.wikipedia.org/wiki/Datenklo), to house network switches and power distribution around the site. If you want super-fast wired access please make sure you bring a 40 to 50m Cat5 cable with you to connect your tent! (we are still finalising power plans and will post about these shortly).
 
@@ -25,11 +25,11 @@ Like all large hacking events in Europe (HAR2009/CCC) we’ll be using portaloos
 
 [Chaos Computer Club](https://en.wikipedia.org/wiki/Chaos_Computer_Club) in Germany are lending us their event IP address space, so everyone at the camp will get a real public IP. At the moment we’re working on configuring the core network, wireless controllers and various services (DNS, DHCP, monitoring etc).
 
-[There was an image here, but it was sadly lost to the mists of time]
+![Stacks of network switches and access points](/images/2012_network_equipment.jpg)
 
 [flexOptix](https://www.flexoptix.net) have sent us the first shipment of loan optics, we’ll be using these to building multiple rings around the site, linking venues and dateklos.
 
-[There was an image here, but it was sadly lost to the mists of time]
+![Optics and Flexbox programmer](/images/2012_network_optics.jpg)
 
 At the site we will have blanket wireless coverage on 2.4GHz (b/g/n) and 5GHz (a). If you have any particular network requirements, or if you plan to use any non-Wifi devices in these frequency bands, please let us know in advance at noc@emfcamp.org
 
