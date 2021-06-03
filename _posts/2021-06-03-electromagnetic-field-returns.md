@@ -16,7 +16,7 @@ Eastnor is an ideal site for EMF, so we chose to move our dates rather than star
 
 For those who want even more camping: We've worked closely with our friends organising the re-scheduled [MCH2021](https://mch2021.org) event in the Netherlands to [ensure our dates do not clash](https://mch2021.org/#/Blog/the-stars-align-the-path-to-mch2022-is-clear), so next year you can attend both!
 
-If you'd like to keep up to date with EMF announcements as the event approaches, join our [mailing list](https://www.emfcamp.org) and follow our [twitter account](https://twitter.com/emfcamp).
+If you'd like to keep up to date with EMF announcements as the event approaches, join our [mailing list](https://www.emfcamp.org/about/contact) and follow our [twitter account](https://twitter.com/emfcamp).
 
 We can't wait to see you all again.
 
