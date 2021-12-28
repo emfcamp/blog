@@ -12,9 +12,11 @@ After the vouchers have expired, we will place any remaining tickets on public s
 
 ## Prices
 
-Unfortunately we have had to significantly raise ticket prices, with adult tickets now starting at £165.
+Unfortunately we have had to significantly raise ticket prices, with adult tickets now
+[starting at £165](https://www.emfcamp.org/tickets).
 
-The costs of running EMF have increased due to a number of causes, many of which have their roots in Brexit and COVID-19. In particular, increased transport costs due to the ongoing shortage of HGV drivers and the removal of reduced rate fuel duty on diesel have had significant effects on our operating costs.
+The costs of running EMF have increased due to a number of causes, many of which have their roots in Brexit and COVID-19. In particular, increased transport costs due to the ongoing shortage of HGV drivers and the removal of the reduced rate of
+fuel duty on diesel have had significant effects on our operating costs.
 
 We are also applying for insurance under the UK government's new COVID [Live Events Reinsurance Scheme](https://www.gov.uk/government/publications/live-events-reinsurance-scheme). This is expensive but it will allow us to reclaim costs and refund all ticketholders if local or national COVID restrictions force us to cancel EMF 2022.
 
