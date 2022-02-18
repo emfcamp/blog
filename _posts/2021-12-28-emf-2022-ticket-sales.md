@@ -2,6 +2,8 @@
 layout: post
 title: "Electromagnetic Field 2022 Ticket Sales"
 ---
+**Update**: [Ticket sale dates have been announced](https://blog.emfcamp.org/2022/02/16/emf-2022-ticket-sale-dates-and-cfp/)!
+
 We are almost ready to begin ticket sales for EMF 2022!
 
 If you had a ticket for EMF 2020 you will receive a voucher by email allowing you to purchase a ticket for EMF 2022. We'll be sending these in the coming weeks, and they will be valid for one month - once your voucher has expired you will have to buy tickets in the public sale.
