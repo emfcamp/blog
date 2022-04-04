@@ -7,7 +7,7 @@ Villages
 As usual at EMF, our camp is organised into villages, and everyone is encouraged to join, or create a village of your
 own.  If you need an introduction to what we mean by that, see our [village guide](https://emfcamp.org/about/villages).
 
-To make things easier for villages, we offer villages the opportunity to book a marquee and furniture through us, which 
+To make things easier, we offer villages the opportunity to book a marquee and furniture through us, which 
 will be set up and ready for when you arrive on site. The list of what is available, pricing and booking can be found 
 on the [web shop](https://emfcamp.org/tickets/hire).
 
@@ -35,6 +35,16 @@ yourself, specifying the role you’re interested in and any experience you migh
 If you can't find a role that interests you but would still like to help pre-event, get in touch - we'll do our best to
 find something that interests you! If you’d rather help during the event you’ll be able to sign up for shifts via the
 website closer to the time.
+
+Bring & Donate &mdash; The Old Curie-osity Shoppe
+-------------------------------------------------
+Is your home/shed/workshop bursting at the seams with stuff? Would you like to pass on your unused/unwanted itmes to
+someone that will make good use of them? And raise money for the Red Cross? *Bring them with you to EMF!*
+
+This year we'll be running the Bring & Donate, with donations going to the Red Cross. Browsing/buying at the shop is the
+same as at our previous events, but this year we're encouraging everyone to bring things with them to donate, after the
+event you'll receive an email letting you know how much your items have raised. Full details and guidance can be found
+on the [website](https://emfcamp.org/about/bring-and-donate).
 
 News
 ----
