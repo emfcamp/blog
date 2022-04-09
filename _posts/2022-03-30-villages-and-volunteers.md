@@ -1,56 +1,69 @@
 ---
 layout: post
-title: "EMF 2022 Villages & Call for Volunteers"
+title: "Electromagnetic Field 2022: Villages, Call for Volunteers and Bring & Donate"
 ---
-Villages
---------
-As usual at EMF, our camp is organised into villages, and everyone is encouraged to join, or create a village of your
-own.  If you need an introduction to what we mean by that, see our [village guide](https://emfcamp.org/about/villages).
+Hello!
 
-To make things easier, we offer villages the opportunity to book a marquee and furniture through us, which 
-will be set up and ready for when you arrive on site. The list of what is available, pricing and booking can be found 
-on the [web shop](https://emfcamp.org/tickets/hire).
+EMF is rapidly approaching, so we’ll be contacting you every few weeks with information about what to expect and things you should know.
+
+Today we’re announcing village registration & furniture booking, asking for help, begging for giant robots, and getting you digging through your junk piles!
+
+Villages
+===
+Camping at EMF is often organised into [villages](https://www.emfcamp.org/villages/2022) - groups of attendees camping together who share interests or know one another. Everyone is encouraged to join or create villages but it’s not mandatory, don’t panic!
+
+We are now allowing villages to [register](https://www.emfcamp.org/villages/register) so our team can ensure you have enough space on-site, as well as allowing you to [book a marquee and furniture](https://www.emfcamp.org/tickets/hire) which will be set up and ready for when you arrive on site.
+
+If you need an introduction to villages, [see our guide](https://www.emfcamp.org/about/villages).
 
 Volunteers
-----------
-EMF is entirely organised & run by unpaid volunteers. There are two routes to get involved: either join the organisation
-team as a pre-event volunteer or contribute a few hours of your time helping out during the event as an on-site volunteer.
+===
+EMF is entirely organised & run by unpaid volunteers, and we're looking for people to join our team.
 
-Right now the following teams are looking for pre-event volunteers:
+At the moment we are recruiting for pre-event volunteers to assist with work in the run-up to the event. No experience is necessary for most roles, but an interest in the area helps!
 
-* [Art & Installations](https://emfcamp.org/about/volunteer-roles#arts) - Bringing artists and art to EMF
-* [Content](https://emfcamp.org/about/volunteer-roles#content) - Organising, outreach and support for: talks, workshops & music
-* [Cybar](https://emfcamp.org/about/volunteer-roles#cybar) - The second bar, music venue, and arts space
-* [Design](https://emfcamp.org/about/volunteer-roles#design) - Visuals and physical assets across the festival
-* [Logistics](https://emfcamp.org/about/volunteer-roles#logistics) - Ensuring things get where they need to be at the
-  right time
-* [Tent Team](https://emfcamp.org/about/volunteer-roles#tent) - Helping people new to the event get set up
-* [Volunteer](https://emfcamp.org/about/volunteer-roles#volunteer) - Managing volunteers, shift sign-up, scheduling,
-  and rewards
+**The following teams currently need pre-event volunteers:**
 
-You can see a full list of the pre-event volunteer roles, and details of each team on our [website](https://emfcamp.org/about/volunteer-roles).
-To express interest, please send an email to [volunteers@emfcamp.org](mailto:volunteers@emfcamp.org) introducing
-yourself, specifying the role you’re interested in and any experience you might have.
+* **[Design](https://www.emfcamp.org/about/volunteer-roles#design)** -  Visual and physical assets across the festival
+* **[Badge](https://www.emfcamp.org/about/volunteer-roles#badge)** - Electronics and software design for our unique camp badge
+* **[Content](https://www.emfcamp.org/about/volunteer-roles#content)** - Organising, outreach and support for talks, workshops & music
+* **[Logistics](https://www.emfcamp.org/about/volunteer-roles#logistics)** - Ensuring things get where they need to be at the right time
+* **[Null Sector / Cybar](https://www.emfcamp.org/about/volunteer-roles#cybar)** - The night-time bar, music venue, and arts space
+* **[Art & Installations](https://www.emfcamp.org/about/volunteer-roles#arts)** - Organising installations and amazing artworks around the site
+* **[Volunteering](https://www.emfcamp.org/about/volunteer-roles#volunteer)** - Managing volunteers, shift sign-up, scheduling, and rewards
+* **[Tent Team](https://www.emfcamp.org/about/volunteer-roles#tent)** - Helping people new to the event get set up
 
-If you can't find a role that interests you but would still like to help pre-event, get in touch - we'll do our best to
-find something that interests you! If you’d rather help during the event you’ll be able to sign up for shifts via the
-website closer to the time.
+You can see a full list of roles and details of each team [on our website](https://emfcamp.org/about/volunteer-roles). To express interest please send an email to [volunteers@emfcamp.org](mailto:volunteers@emfcamp.org) introducing yourself, specifying the role you’re interested in, and any experience you might have.
 
-Bring & Donate &mdash; The Old Curie-osity Shoppe
--------------------------------------------------
-Is your home/shed/workshop bursting at the seams with stuff? Would you like to pass on your unused/unwanted itmes to
-someone that will make good use of them? And raise money for the Red Cross? *Bring them with you to EMF!*
+If you can't find a role that interests you but would still like to help pre-event, get in touch - we'll do our best to find something that fits!
 
-This year we'll be running the Bring & Donate, with donations going to the Red Cross. Browsing/buying at the shop is the
-same as at our previous events, but this year we're encouraging everyone to bring things with them to donate, after the
-event you'll receive an email letting you know how much your items have raised. Full details and guidance can be found
-on the [website](https://emfcamp.org/about/bring-and-donate).
+If you’d rather help during the event, you’ll be able to sign up for shifts via the website closer to the time.
+
+Installations
+===
+We're looking for installations to entertain people across the site - things to play with, things to admire, and things to be puzzled by. Giant robots, weird instruments, captivating lights, strange games, and curious structures.
+
+We're especially looking for installations that might be suitable for our "Null Sector" night-time area. This year the theme is "2022 Leagues Under the Sea" - Jules Verne gone cyberpunk.
+
+If you'd like to submit an installation (or already have something suitable), please email [installations@emfcamp.org](mailto:installations@emfcamp.org)
+
+Bring & Donate
+===
+We know your home/shed/workshop is bursting at the seams with unwanted gadgets, half-finished robots, unusual tools, and crates of eclectic ephemera. We’d like to help you rehome them, all while raising money for the Red Cross.
+
+Simply leave your baffling boxes of things at the Bring & Donate stall and after the event you’ll receive an email letting you know how much your items raised. But don’t forget to make a donation and take some curious items home with you!
+
+Full details and guidance can be found [on our website](https://emfcamp.org/about/bring-and-donate).
 
 News
-----
-If you’d like to see more frequent news and updates about Electromagnetic Field, we recommend you follow us on
-Twitter, [@emfcamp](https://twitter.com/emfcamp).
+===
+If you’d like to more frequent updates about EMF, follow us on Twitter: [@emfcamp](https://twitter.com/emfcamp).
 
-Looking forward to seeing you all soon!
+Sponsors
+===
+Your ticket price pays for us to run the event, but we rely on sponsors to help us make the event fun, accessible, and beautiful. This year we’d particularly like to thank Google Open Source for sponsoring childcare, Lucid for sponsoring transcription, Sargasso Networks, SOS Intelligence, Onega, and iluli by Mike Lamb.
 <br>
-Love, The EMF Team
+Looking forward to seeing you in the field!
+
+Love,
+The EMF Team
