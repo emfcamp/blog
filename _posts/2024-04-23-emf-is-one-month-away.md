@@ -96,5 +96,25 @@ We will once again be selling **T-shirts** and other merch from the shop. **T-sh
 
 As we mentioned previously, you can also [order our badge](https://www.emfcamp.org/tickets/badge), the Tildagon.  If you want to know more, there's an entire post on [our blog](https://blog.emfcamp.org/2024/03/18/tildagon/). Get your pre-order in by **2pm Tuesday 23rd April** to guarantee your badge.
 
+### Sponsors
+
+We're finding it extremely hard to secure sponsorship for EMF this year, and **if we can't secure more sponsors we will have to make some tough decisions**.
+
+While the ticket price covers all our base costs, sponsors pay for many of the lovely things that make EMF truly special, such as our free childcare and live talk transcription.
+
+If you, your organisation, or an organisation you know of would be interested in sponsoring EMF 2024 please [get in touch](mailto:sponsor@emfcamp.org) - we'd love to talk to you! Our sponsorship packages can be tailored to suit your needs, and you can [read more about sponsoring EMF on our website](https://www.emfcamp.org/sponsor).
+
+We also now have **smaller sponsorships available to [quickly buy on the website](https://www.emfcamp.org/tickets/sponsor)** with a credit card - £500 or £1000 will get you listed as an official EMF sponsor!
+
+We would like to warmly thank the following sponsors for their support:
+
+* [Octopus](https://octopus.energy/)
+* [Espressif](https://www.espressif.com/)
+* [United Tech and Allied Workers](https://utaw.tech)
+* [Texas Instruments](https://www.ti.com/)
 
 And with that we're done. Thank you so much for your support and we'll see you in a field very soon!
+
+Love,
+
+The EMF Team
