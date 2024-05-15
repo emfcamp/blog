@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bring somethig green to EMF!"
+title: "Bring something green to EMF!"
 ---
 
 # Bring something green to EMF!
