@@ -22,6 +22,7 @@ If you:
 - are somewhere between London and the EMF site so that we can arrange pickup,
 
 then we would be very grateful for your help, and can provide a set of plans that fit your bed, providing it's at least 700x600.
+
 Cutting all 16 is a big commitment, so we don't expect that, and are thankful for any that you can produce. As you may have heard, sponsorship and budget are tight this year, so if you are willing to cover the cost of any cabinets you produce, we would be delighted to consider you a sponsor and supporter of the arcade, but if you can't, just let us know. We have left a prominent spot on the cabinet for supporters to engrave their logos, and can display logos and URLs in the arcade programme, alongside the amazing game lineup.
 
 Please contact [installations@emfcamp.org](mailto:installations@emfcamp.org), or message jna_sh on irc/element.
