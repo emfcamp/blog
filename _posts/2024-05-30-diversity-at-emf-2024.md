@@ -93,53 +93,237 @@ Invited Speakers only covers people who agreed to give a workshop or talk. We re
 These statistics are correct as of 2024-05-14, so the final published numbers may change slightly due to last-minute alterations in the schedule.
 
 #### Totals
-|       | All Speakers | Invited Speakers | Reviewers |
-|-------|--------------|------------------|-----------|
-| Total | 280          | 16               | 35        |
+
+<table class="table">
+  <thead><tr>
+    <th></th>
+    <th>All Speakers</th>
+    <th>Invited Speakers</th>
+    <th>Reviewers</th>
+  </tr></thead>
+  <tbody>
+    <th>total</th>
+    <td>280</td>
+    <td>16</td>
+    <td>35</td>
+  </tbody>
+</table>
+
 
 #### Age
-|            | All Speakers | Invited Speakers | Reviewers |
-|------------|--------------|------------------|-----------|
-| 0-15       | 1  (0.41%)   | 0                | 0         |
-| 16-25      | 17 (7.0%)    | 0                | 1  (4.2%) |
-| 26-35      | 74 (31%)     | 4 (31%)          | 3  (13%)  |
-| 36-45      | 85 (35%)     | 5 (38%)          | 12 (50%)  |
-| 46-55      | 41 (17%)     | 2 (15%)          | 7  (29%)  |
-| 56-65      | 20 (8.3%)    | 1 (7.7%)         | 1  (4.2%) |
-| 66+        | 4  (1.7%)    | 1 (7.7%)         | 0         |
-| **Total**  | **242**      | **13**           | **24**    |
-| Response rate | 86%       | 81%              | 69%  |
+
+<table class="table">
+  <thead><tr>
+      <th></th>
+      <th>All Speakers</th>
+      <th>Invited Speakers</th>
+      <th>Reviewers</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>0-15</td>
+      <td>1  (0.41%)</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>16-25</td>
+      <td>17 (7.0%)</td>
+      <td>0</td>
+      <td>1  (4.2%)</td>
+    </tr>
+    <tr>
+      <td>26-35</td>
+      <td>74 (31%)</td>
+      <td>4 (31%)</td>
+      <td>3  (13%)</td>
+    </tr>
+    <tr>
+      <td>36-45</td>
+      <td>85 (35%)</td>
+      <td>5 (38%)</td>
+      <td>12 (50%)</td>
+    </tr>
+    <tr>
+      <td>46-55</td>
+      <td>41 (17%)</td>
+      <td>2 (15%)</td>
+      <td>7  (29%)</td>
+    </tr>
+    <tr>
+      <td>56-65</td>
+      <td>20 (8.3%)</td>
+      <td>1 (7.7%)</td>
+      <td>1  (4.2%)</td>
+    </tr>
+    <tr>
+      <td>66+</td>
+      <td>4  (1.7%)</td>
+      <td>1 (7.7%)</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td><strong>242</strong></td>
+      <td><strong>13</strong></td>
+      <td><strong>24</strong></td>
+    </tr>
+    <tr>
+      <td>Response rate</td>
+      <td>86%</td>
+      <td>81%</td>
+      <td>69%</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Gender
-|            | All Speakers | Invited Speakers | Reviewers |
-|------------|--------------|------------------|-----------|
-| Male       | 155 (67%)    | 9 (69%)          | 9  (39%)  |
-| Non-binary | 21  (9.1%)   | 1 (7.7%)         | 5  (22%)  |
-| Female     | 54  (23%)    | 1 (7.7%)         | 9  (39%)  |
-| Other      | 2   (0.86%)  | 2 (15%)          | 0         |
-| **Total**  | **232**      | **13**           | **23**    |
-| Response rate | 83%    | 81%         | 66%  |
+<table class="table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>All Speakers</th>
+      <th>Invited Speakers</th>
+      <th>Reviewers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Male</td>
+      <td>155 (67%)</td>
+      <td>9 (69%)</td>
+      <td>9  (39%)</td>
+    </tr>
+    <tr>
+      <td>Non-binary</td>
+      <td>21  (9.1%)</td>
+      <td>1 (7.7%)</td>
+      <td>5  (22%)</td>
+    </tr>
+    <tr>
+      <td>Female</td>
+      <td>54  (23%)</td>
+      <td>1 (7.7%)</td>
+      <td>9  (39%)</td>
+    </tr>
+    <tr>
+      <td>Other</td>
+      <td>2   (0.86%)</td>
+      <td>2 (15%)</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td><strong>232</strong></td>
+      <td><strong>13</strong></td>
+      <td><strong>23</strong></td>
+    </tr>
+    <tr>
+      <td>Response rate</td>
+      <td>83%</td>
+      <td>81%</td>
+      <td>66%</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Ethnicity
-|            | All Speakers | Invited Speakers | Reviewers |
-|------------|--------------|------------------|-----------|
-| White      | 193 (93%)    | 12 (92%)         | 19 (86%)  |
-| Mixed      | 6   (2.9%)   | 1  (7.7%)        | 2  (9.1%) |
-| Black      | 1   (0.48%)  | 0                | 0         |
-| Asian      | 5   (2.4%)   | 0                | 1  (4.5%) |
-| Other      | 3   (1.4%)   | 0                | 0         |
-| **Total**  | **208**     | **13**           | **22**    |
-| Response rate | 74%    | 81%         | 63%  |
+<table class="table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>All Speakers</th>
+      <th>Invited Speakers</th>
+      <th>Reviewers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>White</td>
+      <td>193 (93%)</td>
+      <td>12 (92%)</td>
+      <td>19 (86%)</td>
+    </tr>
+    <tr>
+      <td>Mixed</td>
+      <td>6   (2.9%)</td>
+      <td>1  (7.7%)</td>
+      <td>2  (9.1%)</td>
+    </tr>
+    <tr>
+      <td>Black</td>
+      <td>1   (0.48%)</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Asian</td>
+      <td>5   (2.4%)</td>
+      <td>0</td>
+      <td>1  (4.5%)</td>
+    </tr>
+    <tr>
+      <td>Other</td>
+      <td>3   (1.4%)</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td><strong>208</strong></td>
+      <td><strong>13</strong></td>
+      <td><strong>22</strong></td>
+    </tr>
+    <tr>
+      <td>Response rate</td>
+      <td>74%</td>
+      <td>81%</td>
+      <td>63%</td>
+    </tr>
+  </tbody>
+</table>
 
 #### By type
 
 Note that the totals here will differ from those for speakers, because some speakers have multiple submissions (e.g. a workshop and a talk).
-|                | Submitted  | Accepted  |
-|----------------|------------|-----------|
-| Performance    | 54  (9%)   | 45  (13%) |
-| Youth Workshop | 40  (7%)   | 21  (6%)  |
-| Installation   | 87  (15%)  | 77  (21%) |
-| Talk           | 280 (48%)  | 130 (36%) |
-| Workshop       | 125 (21%)  | 86  (24%) |
-| **Total**      | **586**    | **354**   |
-
+<table class="table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Submitted</th>
+      <th>Accepted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Performance</td>
+      <td>54  (9%)</td>
+      <td>45  (13%)</td>
+    </tr>
+    <tr>
+      <td>Youth Workshop</td>
+      <td>40  (7%)</td>
+      <td>21  (6%)</td>
+    </tr>
+    <tr>
+      <td>Installation</td>
+      <td>87  (15%)</td>
+      <td>77  (21%)</td>
+    </tr>
+    <tr>
+      <td>Talk</td>
+      <td>280 (48%)</td>
+      <td>130 (36%)</td>
+    </tr>
+    <tr>
+      <td>Workshop</td>
+      <td>125 (21%)</td>
+      <td>86  (24%)</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td><strong>586</strong></td>
+      <td><strong>354</strong></td>
+    </tr>
+  </tbody>
+</table>
