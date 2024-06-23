@@ -14,15 +14,15 @@ Many thanks from the EMF team for making the festival feel like such a special p
 
 <br>There's a few things to wrap up before we hibernate for a year:
 
-* � [Let us know](https://cloud.orga.emfcamp.org/apps/forms/s/gykaxpDTWXbRc6t8LMNBc382) if you became ill at EMF (or just after) 
-* � You **have until December to [claim Lost Property](mailto:contact@emfcamp.org?subject=Lost&nbsp;property)**
-* � Send us your [memories](https://wiki.emfcamp.org/2024/wiki/Memories) & [photos](https://docs.google.com/forms/d/e/1FAIpQLSdqvJG9loGOWH9uEQEGvq5PfDZE0YYt4xsu8hjgpAhMKvZ0PQ/viewform)
-* � Please give us [feedback](https://cloud.orga.emfcamp.org/apps/forms/s/wr2iRdTAPi4j6fSt9CGNN2iq)!
-* � **Talk videos will be published in the coming months**
-* � Help us collect [diversity statistics](https://www.emfcamp.org/account/details)
-* � [Update](https://tildagon.badge.emfcamp.org/using-the-badge/flash-the-badge/) your Tildagon badge
-* � [Last orders](https://moraghickman.myshopify.com/) for EMF fabric!
-* � [Get involved](https://www.emfcamp.org/about/volunteering) and help make EMF happen
+* 😷 [Let us know](https://cloud.orga.emfcamp.org/apps/forms/s/gykaxpDTWXbRc6t8LMNBc382) if you became ill at EMF (or just after) 
+* 🔍 You **have until December to [claim Lost Property](mailto:contact@emfcamp.org?subject=Lost&nbsp;property)**
+* 📷 Send us your [memories](https://wiki.emfcamp.org/2024/wiki/Memories) & [photos](https://docs.google.com/forms/d/e/1FAIpQLSdqvJG9loGOWH9uEQEGvq5PfDZE0YYt4xsu8hjgpAhMKvZ0PQ/viewform)
+* 📝 Please give us [feedback](https://cloud.orga.emfcamp.org/apps/forms/s/wr2iRdTAPi4j6fSt9CGNN2iq)!
+* 📹 **Talk videos will be published in the coming months**
+* 📈 Help us collect [diversity statistics](https://www.emfcamp.org/account/details)
+* 📟 [Update](https://tildagon.badge.emfcamp.org/using-the-badge/flash-the-badge/) your Tildagon badge
+* 🧣 [Last orders](https://moraghickman.myshopify.com/) for EMF fabric!
+* 🦺 [Get involved](https://www.emfcamp.org/about/volunteering) and help make EMF happen
 * ⏭️ **[Sign up](https://www.emfcamp.org/about/contact) to our mailing list** for news about **EMF 2026**
 
 ## Infection Survey
