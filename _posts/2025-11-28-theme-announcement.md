@@ -9,7 +9,7 @@ Not just outer space, though – we want to celebrate discovery, engineering, ex
 
 In the coming months we’ll be publishing further inspiration, graphics, concepts, and posters for you to share and reuse in your own projects.
 
-We’re looking for volunteers to help us ahead of the event to design and assemble site decoration, and contribute plants to our orbital greenhouse. If you know your way around a sewing machine or potting shed, or want to help the Design team in other ways, sign up here!
+We’re looking for volunteers to help us ahead of the event to design and assemble site decoration, and contribute plants to our orbital greenhouse. If you know your way around a sewing machine or potting shed, or want to help the Design team in other ways, [sign up here](https://grist.orga.emfcamp.org/4DBH2QnXLavW/Design/p/16)!
 
 We love to see your contributions about whatever gets you nerdy and excited – we hope you’ll be inspired to join in.
 
