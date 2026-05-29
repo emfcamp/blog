@@ -8,7 +8,7 @@ Two years ago, we released the
 camp badges, designed to be reused and upgraded at several future EMF events
 rather than abandoned in a drawer.
 
-We are keeping our promise. For 2026 the Tildagon has a new front board to match
+Keeping our promise, the 2026 Tildagon has a new front board to match
 the “space” theme, along with the first official hexpansion to add new
 capabilities.  All of these upgrades are available [to order now](https://www.emfcamp.org/tickets/badge).
 
@@ -22,7 +22,7 @@ capabilities.  All of these upgrades are available [to order now](https://www.em
 Only a bit! True to our word, you can re-use the main board from your 2024
 Tildagon, the battery, the screen, and any exciting hexpansions you've collected.
 
-The new top addresses common issues with the previous version - LED’s were more
+The new top addresses common issues with the previous version - LEDs were more
 fragile than expected, buttons were awkward and easy to break, and worst of all
 the screen could fall off and hide in long grass.  All of these problems are
 solved by protecting them inside a **sandwich of two boards**.
@@ -45,9 +45,8 @@ Full thanks to sodoku and davedarko who designed it for us.
 
 ## How do I get it?
 
-Please upgrade your existing badge rather than buying a new one. We have
-instructions on how to safely strip your existing badge for parts
-[here](https://tildagon.badge.emfcamp.org/using-the-badge/2024-dissembly-instructions/)
+Please upgrade your existing badge rather than buying a new one - we have
+[instructions on how to safely strip your existing badge for parts](https://tildagon.badge.emfcamp.org/using-the-badge/2024-dissembly-instructions/).
 
 We are charging a small amount for the badge upgrade kit to cover manufacturing
 costs, and the keyboard hexpansion is an optional add on.
@@ -55,7 +54,7 @@ costs, and the keyboard hexpansion is an optional add on.
 Upgrade kits, keyboards, complete badges, and spare parts are available for EMF
 ticketholders [to order now](https://www.emfcamp.org/tickets/badge).
 
-You do not need to upgrade your Tildagon if you love it just as it is - we will
+You do not need to upgrade your Tildagon if you love it just as it is - we
 still support it!
 
 ## Don’t Panic
