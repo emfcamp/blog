@@ -14,7 +14,7 @@ capabilities.  All of these upgrades are available [to order now](https://www.em
 
 **We call it the Spaceagon**.
 
-![A photograph of the spaceagon. It is a hexagonal electronic badge covered in temporary artwork of space cats.](../../../../images/2026-badge-photos/spaceagon-prototype.jpeg "")
+![A photograph of the spaceagon. It is a hexagonal electronic badge covered in temporary artwork of space cats.](../../../../images/2026-badge-photos/spaceagon-prototype.jpeg)
 <small>This is a prototype with prototype artwork - the final design will be revealed in the field.</small>
 
 ## What's new?
@@ -41,7 +41,7 @@ We are also releasing our first official hexpansion - a keyboard, so you can
 tap out messages and be less frustrated when entering wifi passwords.
 Full thanks to sodoku and davedarko who designed it for us.
 
-![A photograph of a small keyboard that plugs into the Tildagon badge.](../../../../images/2026-badge-photos/keebdeck-prototype.jpeg)
+![A photograph of a small keyboard that plugs into the Tildagon badge.](../../../../images/2026-badge-photos/keebdeck_prototype.jpeg)
 
 ## How do I get it?
 
