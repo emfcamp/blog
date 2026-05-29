@@ -20,7 +20,7 @@ capabilities.  All of these upgrades are available [to order now](https://www.em
 ## What's new?
 
 Only a bit! True to our word, you can re-use the main board from your 2024
-Tildagon, the battery, the screen, and any exciting hexpansions you've collected.
+Tildagon, the battery, the screen, and any exciting [hexpansions](https://tildagon.badge.emfcamp.org/hexpansions/creating-hexpansions/) you've collected.
 
 The new top addresses common issues with the previous version - LEDs were more
 fragile than expected, buttons were awkward and easy to break, and worst of all
