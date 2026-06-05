@@ -7,7 +7,10 @@
   margin-right: -$spacing-unit;
   padding-left: $spacing-unit;
   padding-right: $spacing-unit;
-  background-color: #171123;
+  background-color: $background-color;
+  border-bottom: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: #005d96;
 }
 
 .site-title {
