@@ -15,7 +15,7 @@ capabilities.  All of these upgrades are available [to order now](https://www.em
 **We call it the Spaceagon**.
 
 ![A photograph of the spaceagon. It is a hexagonal electronic badge covered in temporary artwork of space cats.](../../../../images/2026-badge-photos/spaceagon-prototype.jpeg)
-<small>This is a prototype with prototype artwork - the final design will be revealed in the field.</small>
+<b>This is a prototype with prototype artwork - the final design will be revealed in the field.</b>
 
 ## What's new?
 
