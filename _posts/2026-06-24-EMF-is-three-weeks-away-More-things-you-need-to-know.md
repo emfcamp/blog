@@ -80,7 +80,7 @@ In addition to sponsorship, you can support EMF as an individual [at the self-se
 
 ## Stay up to date
 
-You can keep up with all the EMF social media accounts on [https://fediwall.emf.camp](fediwall.emf.camp) - expect a lot of sneak previews over the coming weeks.
+You can keep up with all the EMF social media accounts on [https://fediwall.emf.camp](https://fediwall.emf.camp) - expect a lot of sneak previews over the coming weeks.
 
 ## Help! I don't understand what's going on
 
