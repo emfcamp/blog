@@ -8,7 +8,7 @@ Once more, there's things you need to know.
 
 ## We have a schedule!
 
-You can now start to plan the weekend - **[the full schedule](http://localhost:2342/schedule/2026) is ready for your perusal**.
+You can now start to plan the weekend - **[the full schedule](https://www.emfcamp.org/schedule/2026) is ready for your perusal**.
 
 ## Workshop lottery is go
 
